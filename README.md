@@ -1,14 +1,14 @@
 
 ### Olá!! sou o Jorge Leandro 🖐️
-<br>
+<br>    
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jl-1008&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-leandro-desenvolvedor)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jorgeleandro1008@gmail.com)
 
-
-
-![Jorge-Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=jl-1008&show_icons=true&theme=radical)
-
-
+                                                                                                                                        
 ## Tecnologias que estou estudando no momento
 
 <div style="display: inline_block"><br>
@@ -29,7 +29,4 @@
     <img align="center" alt="Kali linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
     <img align="center" alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
-<br>
-
-### E-mail para contato.
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jorgeleandro1008@gmail.com)
+<br>      
