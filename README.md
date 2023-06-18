@@ -1,4 +1,4 @@
-#Olá, eu sou Jorge Leandro  🖐
+# Olá, eu sou Jorge Leandro
 
 ```ruby 
 class Programmer
@@ -9,7 +9,7 @@ class Programmer
 <p align="left">
     <h3 align="left">Connect with me:</h3>
     <a href="https://linkedin.com/in/jorge-leandro-desenvolvedor" target="_blank"><img align= "center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="" height="30" width="40" /></a>
-    <a href="https://instagram.com/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>    
+    <a href="https://instagram.com/jorgeleandro1008" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="jl-1008" height="30" width="40"/></a>    
 </p>
 
 ---
