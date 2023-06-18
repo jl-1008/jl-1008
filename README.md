@@ -1,32 +1,58 @@
+#Olá, eu sou Jorge Leandro  🖐
 
-### Olá!! sou o Jorge Leandro 🖐️
-<br>    
+```ruby 
+class Programmer
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jl-1008&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+	def initialize() 
+```
 
+<p align="left">
+    <h3 align="left">Connect with me:</h3>
+    <a href="https://linkedin.com/in/jorge-leandro-desenvolvedor" target="_blank"><img align= "center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="" height="30" width="40" /></a>
+    <a href="https://instagram.com/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>    
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-leandro-desenvolvedor)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jorgeleandro1008@gmail.com)
+---
 
-                                                                                                                                        
-## Tecnologias que estou estudando no momento
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-     <img align="center" alt="Django"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>   
-    <img align="center" alt="Ruby"  src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-    <img align="center" alt="Rails"  src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-</div>
-<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jl-1008" alt="jl-1008" /> </p>
 
 
-### Linguagens e Ferramentas que já tive contato
+<h3>Open Source Projects</h3>
 
-<div style="diplay: inline_block">
-    <img align="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img align="center" alt="Kali linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-    <img align="center" alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-</div>
-<br>      
+<table>
+        <thead align="center">
+            <tr border: none;>
+        </thead>
+<table>        
+
+
+
+
+
+<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
+
+<h3 align="left">Languages and Tools:</h3>
+    <p align="left">
+
+<h4 align="left">Estudando no momento:</h4>
+            <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
+            <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
+            <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
+       
+<h4 align="left">Medium Skill:</h4>
+            <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /></a>
+            <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>       
+
+
+<h4 align="left">Low Skill:</h4>
+    <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+    <a href="https://stackshare.io/redis" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
+    </p>
+<figure>
+	<embed src="https://wakatime.com/share/@marcodotcastro/7cd3cbfb-1783-43d5-9708-4d309157fe7a.svg"></embed></figure>
+      ```ruby 
+	  end 
+   end 
+```
+
+
