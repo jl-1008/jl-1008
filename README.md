@@ -51,7 +51,7 @@ class Developer:
 
 ## 🤖 IA & Ferramentas Inteligentes
 <p align="center" style="margin-top:20px;">
- 
+ https://github.com/jl-1008/jl-1008/blob/934c81934034e0ce7f07bead2a8ccc0fcc537721/banner-ai-automacao.png
 </p>
 
 ---
