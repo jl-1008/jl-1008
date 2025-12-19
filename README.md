@@ -22,7 +22,7 @@ class Developer:
 
 ---
 
-# 🚀 Banner Profissional
+# 🚀 Profissional
 <p align="center">
   <img src="https://img.shields.io/badge/Jorge%20Leandro-Desenvolvedor%20Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20RPA-141321?style=for-the-badge" />
 </p>
@@ -70,7 +70,7 @@ Meu objetivo é criar soluções simples, eficientes e com impacto real no dia a
 
 ---
 
-## 🤖 Mini‑Card de IA
+## 🤖 IA
 <p align="center">
 <img src="https://img.shields.io/badge/Intelligent%20Automation-IA%20Applied-blueviolet?style=for-the-badge&logo=ai" />
 <img src="https://img.shields.io/badge/Python%20%2B%20IA-Automação%20Inteligente-black?style=for-the-badge&logo=python" />
