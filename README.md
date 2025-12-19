@@ -38,32 +38,25 @@ class Developer:
 
 ## 🚀 Principais Tecnologias 🔧
 <p align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="50" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="50" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://skillicons.dev/icons?i=aws" width="50" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/selenium/selenium-original.svg" width="50" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg" width="50" />
-  <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://skillicons.dev/icons?i=python,linux,flask,selenium,postgres,ai" />
 </p>
 
 ---
 
-## 🤖 IA & Ferramentas Inteligentes
-<p align="center" style="margin-top:20px;">
- https://github.com/jl-1008/jl-1008/blob/934c81934034e0ce7f07bead2a8ccc0fcc537721/banner-ai-automacao.png
+## 📊 Tecnologias em Uso
+<p align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jl-1008&show_icons=true&theme=radical" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl-1008&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📌 Sobre Mim — Foco em IA
-Sou desenvolvedor em evolução contínua, com foco atual em **Inteligência Artificial aplicada a automação**, criando soluções que unem Python, RPA, APIs e técnicas de IA para transformar processos manuais em fluxos inteligentes e eficientes.
+## 📌 Sobre Mim
+Profissional em desenvolvimento contínuo, focado em **Automação e Inteligência Artificial aplicada**, construindo soluções que combinam **Python, APIs, RPA** e recursos de IA para tornar processos mais rápidos, eficientes e inteligentes.
 
-Minha abordagem é direta: aplico IA para **aumentar eficiência**, criar fluxos de automação mais inteligentes e transformar dados em ações úteis. Trabalho com integrações de APIs e soluções práticas que realmente impactam o dia a dia das empresas.
+Esses projetos envolvem o uso de Python, scripts, integração com APIs, automações web com Selenium e aplicação de inteligência artificial como apoio à tomada de decisão, utilizando lógica de programação, validação de dados e automação de fluxos para simular cenários reais corporativos.
 
-Estou aprofundando meus estudos em **IA aplicada**, modelos inteligentes e uso de dados para decisões automátic​as, além de fortalecer minha base em **PostgreSQL** para complementar projetos que exigem organização e persistência de informações.
-
-Meu foco é desenvolver soluções com **valor real**, sempre combinando automação, IA e boas práticas de desenvolvimento.
+Meu objetivo é criar soluções simples, eficientes e com impacto real no dia a dia das empresas.
 
 ---
 
