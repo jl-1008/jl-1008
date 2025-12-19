@@ -70,11 +70,11 @@ Meu objetivo é criar soluções simples, eficientes e com impacto real no dia a
 
 ---
 
-## 🕒 Wakatime (Meu tempo de estudo e código)
-<figure>
-  <embed src="https://wakatime.com/share/@marcodotcastro/7cd3cbfb-1783-43d5-9708-4d309157fe7a.svg"></embed>
-</figure>
+## 🤖 Mini‑Card de IA
+<p align="center">
+<img src="https://img.shields.io/badge/Intelligent%20Automation-IA%20Applied-blueviolet?style=for-the-badge&logo=ai" />
+<img src="https://img.shields.io/badge/Python%20%2B%20IA-Automação%20Inteligente-black?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/OpenAI-API%20Ready-4B0082?style=for-the-badge&logo=openai" />
+</p>
 
----
-
-### 🧭 “Foco, consistência e evolução diária. 2026 será meu ano.”
+### 🧭 “Foco, consistência e evolução diária.”
