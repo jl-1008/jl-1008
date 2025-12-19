@@ -45,9 +45,10 @@ class Developer:
 
 ## 📊 Tecnologias em Uso
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jl-1008&show_icons=true&theme=radical" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl-1008&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jl-1008&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl-1008&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
